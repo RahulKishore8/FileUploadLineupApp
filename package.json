@@ -1,0 +1,25 @@
+{
+  "name": "fileuploadlineupapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahulKishore8/FileUploader.git"
+  },
+  "author": "Rahul Kishore P H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahulKishore8/FileUploader/issues"
+  },
+  "homepage": "https://github.com/RahulKishore8/FileUploader#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "nodemon": "^2.0.20"
+  }
+}
